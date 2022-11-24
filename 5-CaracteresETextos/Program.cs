@@ -14,6 +14,15 @@ class Program
         letra = (char)(65 + 1);
         Console.WriteLine(letra); // Saída: B
 
+        string cursos = @"Cursos disponíveis: 
+- Go
+- C#
+- Python
+- Java
+";
+        Console.WriteLine(cursos);
+
+        Console.WriteLine("Tecle Enter para fechar...");
         Console.ReadLine();
     }
 }
