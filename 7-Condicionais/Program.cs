@@ -9,20 +9,12 @@ class Program
         int quantidadePessoas = 2;
 
         if (idadeJoao >= 18)
-        {
             Console.WriteLine("Pode entrar!");
-        } 
         else
-        {
             if (quantidadePessoas > 1)
-            {
                 Console.WriteLine("Ele está acompanhado. Pode entrar!");
-            } 
             else
-            {
-         Console.WriteLine("Não pode entrar!");
-            }
-        }
+                Console.WriteLine("Não pode entrar!");
 
         Console.WriteLine("Tecle Enter para fechar...");
         Console.ReadLine();
