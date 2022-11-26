@@ -14,8 +14,8 @@ class Program
         int mes = 1;
         while (mes <= quantidadeMeses)
         {
-            investimento = investimento + (investimento * 0.005);
-            Console.WriteLine(investimento);
+            investimento *= 1.005;
+            Console.WriteLine($"Valor no {mes}º mês: R$ {(Math.Round(investimento, 2))}");
             mes++;
         }
 
