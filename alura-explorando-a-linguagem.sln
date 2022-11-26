@@ -3,23 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-CriandoVariaveis", "2-CriandoVariaveis\2-CriandoVariaveis.csproj", "{58A9BEF9-5262-4E3C-A0B5-305D76E9AB3A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02-CriandoVariaveis", "2-CriandoVariaveis\02-CriandoVariaveis.csproj", "{58A9BEF9-5262-4E3C-A0B5-305D76E9AB3A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3-CriandoVariaveisPontoFlutuante", "3-CriandoVariaveisPontoFlutuante\3-CriandoVariaveisPontoFlutuante.csproj", "{FB993190-90C5-4EDB-BED0-3CB10B297C9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03-CriandoVariaveisPontoFlutuante", "3-CriandoVariaveisPontoFlutuante\03-CriandoVariaveisPontoFlutuante.csproj", "{FB993190-90C5-4EDB-BED0-3CB10B297C9B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-OlaMundo", "1-OlaMundo\1-OlaMundo.csproj", "{E2745EED-2844-4826-84FD-56E4575745AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01-OlaMundo", "1-OlaMundo\01-OlaMundo.csproj", "{E2745EED-2844-4826-84FD-56E4575745AB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4-ConversoesEOutrosTipos", "4-ConversoesEOutrosTipos\4-ConversoesEOutrosTipos.csproj", "{0F245612-D033-4F8F-A203-AA8D9CBA86EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04-ConversoesEOutrosTipos", "4-ConversoesEOutrosTipos\04-ConversoesEOutrosTipos.csproj", "{0F245612-D033-4F8F-A203-AA8D9CBA86EA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5-CaracteresETextos", "5-CaracteresETextos\5-CaracteresETextos.csproj", "{F79F6677-C051-4472-A5A3-7C7A423A23AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05-CaracteresETextos", "5-CaracteresETextos\05-CaracteresETextos.csproj", "{F79F6677-C051-4472-A5A3-7C7A423A23AB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6-AtribuicaoDeVariaveis", "6-AtribuicaoDeVariaveis\6-AtribuicaoDeVariaveis.csproj", "{AB0E4C91-6862-4E47-930C-E8309FF7DFDD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06-AtribuicaoDeVariaveis", "6-AtribuicaoDeVariaveis\06-AtribuicaoDeVariaveis.csproj", "{AB0E4C91-6862-4E47-930C-E8309FF7DFDD}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7-Condicionais", "7-Condicionais\7-Condicionais.csproj", "{6ABE1C9C-0999-45A7-A23F-A000B50C7B61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07-Condicionais", "7-Condicionais\07-Condicionais.csproj", "{6ABE1C9C-0999-45A7-A23F-A000B50C7B61}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8-Condicionais2", "8-Condicionais2\8-Condicionais2.csproj", "{15B06182-A057-459B-B331-FAE238E85DAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08-Condicionais2", "8-Condicionais2\08-Condicionais2.csproj", "{15B06182-A057-459B-B331-FAE238E85DAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-Escopo", "9-Escopo\9-Escopo.csproj", "{96E7FD18-B788-42E7-A1D7-ED98B443F11A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09-Escopo", "9-Escopo\09-Escopo.csproj", "{96E7FD18-B788-42E7-A1D7-ED98B443F11A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-CalculaPoupanca", "10-CalculaPoupanca\10-CalculaPoupanca.csproj", "{E587BAFE-234F-4FE8-967F-44A791522758}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{96E7FD18-B788-42E7-A1D7-ED98B443F11A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96E7FD18-B788-42E7-A1D7-ED98B443F11A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96E7FD18-B788-42E7-A1D7-ED98B443F11A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E587BAFE-234F-4FE8-967F-44A791522758}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E587BAFE-234F-4FE8-967F-44A791522758}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E587BAFE-234F-4FE8-967F-44A791522758}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E587BAFE-234F-4FE8-967F-44A791522758}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
